@@ -1,5 +1,8 @@
 # kubernetes integration
 
+> [!WARNING]
+> This repository was moved to the new [integrations monorepo](https://github.com/PlakarKorp/integrations/tree/main/k8s).
+
 This integration allows [plakar][plakar] to backup and restore
 [kubernetes][kubernetes] resources and PersistentVolumes, both via the
 CSI driver snapshot feature (preferred) and without.
